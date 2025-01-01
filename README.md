@@ -1,22 +1,17 @@
 Kütüphane Yönetim Sistemi
-Bu Python projesi, kitaplar ve öğrencilerle ilgili temel bir kütüphane yönetim sistemi sağlar. Sistem, şu işlemleri yapmanıza olanak tanır:
+Bu Python projesi, kitaplar ve öğrencilerle ilgili bir kütüphane yönetim sistemidir. Aşağıdaki işlemleri yapabilirsiniz:
 
-Kütüphanedeki tüm kitapları listeleme
-Ödünç alınan kitapları listeleme
-Yeni kitap ekleme
-Kitap silme
-ISBN veya isimle kitap arama
-Öğrencilere kitap teslim etme
 Özellikler
-Kitap ve öğrenci bilgileri metin dosyalarında (books.txt ve students.txt) saklanır.
-Kitap ekleme, silme, arama ve listeleme işlemleri desteklenir.
-Basit bir metin tabanlı menü ile etkileşim.
+Kitap ve öğrenci verileri: books.txt ve students.txt dosyalarında saklanır.
+Kitap ekleyebilir, silip, arayabilir ve listeleyebilirsiniz.
+Öğrencilere kitap teslim edebilirsiniz.
+Metin tabanlı basit bir menü ile etkileşim.
 Kurulum
-Depoyu klonlayın veya proje dosyalarını indirin.
-books.txt ve students.txt dosyalarının doğru şekilde kitap ve öğrenci verileriyle doldurulduğundan emin olun.
-Main.py dosyasını çalıştırarak kütüphane yönetim sistemini başlatın.
+Depoyu klonlayın veya dosyaları indirin.
+books.txt ve students.txt dosyalarının doğru şekilde doldurulduğundan emin olun.
+Main.py dosyasını çalıştırarak sistemi başlatın.
 Kullanım
-Main.py dosyasını çalıştırdığınızda aşağıdaki seçenekler mevcut olacaktır:
+Main.py çalıştırıldığında aşağıdaki seçenekler sunulur:
 
 Kütüphanedeki Tüm Kitapları Listele
 Ödünç Alınan Kitapları Listele
@@ -26,16 +21,16 @@ ISBN ile Kitap Ara
 Kitap İsmi ile Ara
 Kitap Teslim Et
 Tüm Öğrencileri Listele
-Programdan Çık
+Çıkış
 Dosyalar
-Main.py: Programın ana mantığının bulunduğu Python dosyası.
-books.txt: Kütüphanedeki kitapların bilgilerini içeren metin dosyası.
-students.txt: Öğrenci bilgilerini ve ödünç aldıkları kitapları içeren metin dosyası.
+Main.py: Programın ana mantığını barındıran Python dosyası.
+books.txt: Kütüphanedeki kitapları içeren dosya.
+students.txt: Öğrencilerin bilgileri ve ödünç aldıkları kitaplar.
 Katkı Sağlama
-Katkı sağlamak isterseniz, depoyu çatallayabilir, sorun bildirebilir veya geliştirmeler önerebilirsiniz.
+Katkıda bulunmak isterseniz, depo üzerinde çatallama yapabilir, sorun bildirebilir veya geliştirme önerileri sunabilirsiniz.
 
 Lisans
-Bu proje açık kaynaklıdır ve MIT Lisansı ile lisanslanmıştır.
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
 #
 
